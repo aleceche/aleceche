@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [CtCI](https://github.com/tarrinneal/CtCI_Book_Club)
 
-- 🌱 I’m currently learning **Go,Flutter,**
+- 🌱 I’m currently learning **Go,Flutter**
 
 - 🤝 I’m looking for help with **the job search**
 
-- 💬 Ask me about **React, Firebase,**
+- 💬 Ask me about **React, Firebase**
 
 - 📫 How to reach me **alecech1994@gmail.com**
 
