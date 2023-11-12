@@ -1,15 +1,15 @@
 <h1 align="center">Hi there👋, I'm Alec!</h1>
-<h3 align="center">A passionate fullstack developer from San Diego, CA</h3>
+<h3 align="center">A passionate fullstack developer from Seattle, WA</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleceche" alt="aleceche" /></a> </p>
 
-- 🔭 I’m currently working on [CtCI](https://github.com/tarrinneal/CtCI_Book_Club)
+- 🔭 I’m currently working at [Amazon](https://www.amazon.com/)
 
-- 🌱 I’m currently learning **Go,Flutter**
+- 🌱 I’m currently learning **So many things**
 
-- 🤝 I’m looking for help with **the job search**
+- 🤝 I’m looking for help with **getting some coffee**
 
-- 💬 Ask me about **React, Firebase**
+- 💬 Ask me about **PrimeAir Drone Delivery**
 
 - 📫 How to reach me **alecech1994@gmail.com**
 
